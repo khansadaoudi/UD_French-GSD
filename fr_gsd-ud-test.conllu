@@ -29,7 +29,7 @@
 26	pour	pour	ADP	_	_	28	case	_	_
 27	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	28	det	_	SpaceAfter=No
 28	origine	origine	NOUN	_	Gender=Fem|Number=Sing	22	obl:mod	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	2	punct	_	_
+29	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = fr-ud-test_00002
 # text = On pourra toujours parler à propos d'Averroès de "décentrement du Sujet".
